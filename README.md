@@ -1,4 +1,4 @@
-Python Web Application that is capable of doing the multiple API  request when hosted from the local machine 
+Python Web Application that is capable of responding the multiple API  request when hosted from the local machine 
 
 GET – Retrieves data from the API, such as listing all items or getting a specific item (e.g., http://localhost:5000/api/items).
 
